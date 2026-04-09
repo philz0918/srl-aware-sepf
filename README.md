@@ -1,6 +1,4 @@
-# srl-aware-sepf
-
-# SRL-Aware Analysis
+# SRL-Aware SEPF Analysis
 
 This repository contains code for **SRL-aware Sentiment, Emotion, Politeness, and formality analysis**.
 
