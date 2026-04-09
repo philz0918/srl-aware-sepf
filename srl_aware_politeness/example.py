@@ -6,7 +6,7 @@ from explainer import create_client, explain_with_gpt_oss_from_result
 
 CKPT_FILE = os.getenv(
     "POLITENESS_CKPT_FILE",
-    "/final_model_before/best_model_4_directional.ckpt",
+    "PATH_for_best_model_4_directional.ckpt",
 )
 GPT_OSS_MODEL = os.getenv("GPT_OSS_MODEL", "gpt-oss-120b")
 
